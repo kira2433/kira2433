@@ -31,36 +31,36 @@ Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 <div align="center">  
 	<picture>
 	  <source
-		srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kira2433&count_private=true&theme=dark&hide_border=true"
+		srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kira2433&count_private=false&theme=dark&hide_border=true"
 		media="(prefers-color-scheme: dark)"
 	  />
 	  <source
-		srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kira2433&count_private=true&hide_border=true"
+		srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kira2433&count_private=false&hide_border=true"
 		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 	  />
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kira2433&count_private=true&hide_border=true" />
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kira2433&count_private=false&hide_border=true" />
 	</picture>	 
 	<picture>
 	  <source
-		srcset="https://github-readme-stats.vercel.app/api?username=kira2433&show_icons=true&theme=dark&hide_border=true"
+		srcset="https://github-readme-stats.vercel.app/api?username=kira2433&count_private=false&show_icons=true&theme=dark&hide_border=true"
 		media="(prefers-color-scheme: dark)"
 	  />
 	  <source
-		srcset="https://github-readme-stats.vercel.app/api?username=kira2433&show_icons=true&hide_border=true"
+		srcset="https://github-readme-stats.vercel.app/api?username=kira2433&count_private=false&show_icons=true&hide_border=true"
 		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 	  />
-	  <img src="https://github-readme-stats.vercel.app/api?username=kira2433&show_icons=true&hide_border=true" />
+	  <img src="https://github-readme-stats.vercel.app/api?username=kira2433&count_private=false&show_icons=true&hide_border=true" />
 	</picture>
 	<picture>
 	  <source
-		srcset="https://github-readme-streak-stats.herokuapp.com/?user=kira2433&count_private=true&theme=dark&hide_border=true"
+		srcset="https://github-readme-streak-stats.herokuapp.com/?user=kira2433&count_private=false&theme=dark&hide_border=true"
 		media="(prefers-color-scheme: dark)"
 	  />
 	  <source
-		srcset="https://github-readme-streak-stats.herokuapp.com/?user=kira2433&count_private=true&hide_border=true"
+		srcset="https://github-readme-streak-stats.herokuapp.com/?user=kira2433&count_private=false&hide_border=true"
 		media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 	  />
-	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kira2433&count_private=true&hide_border=true" />
+	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kira2433&count_private=false&hide_border=true" />
 	</picture>	 	
 </div>
             
