@@ -1,12 +1,15 @@
 <!-- About Me Overview -->   
 <div align="center">
-Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>  👋!
 </div>
 <br />
 
 <p align="center">
 	<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" height="26"/>	
-	<img alt="Django" src="https://img.shields.io/badge/django-0f3e2e?style=for-the-badge&logo=django&logoColor=white" height="26"/>	
+	<img alt="Django" src="https://img.shields.io/badge/django-0f3e2e?style=for-the-badge&logo=django&logoColor=white" height="26"/>		
+	<img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="26"/>		
+	<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0f3e2e?style=for-the-badge&logo=fastAPI&logoColor=white" height="26"/>		
+	<img alt="odoo" src="https://img.shields.io/badge/Odoo-702963?style=for-the-badge&logo=odoo&logoColor=white" height="26"/>		
 	<img alt="Java" src ="https://img.shields.io/badge/java%20-%23E34F26.svg?&style=for-the-badge&logo=java&logoColor=white" height="26"/>
 	<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="26"/>
 	<img alt="TypeScript" src="https://img.shields.io/badge/typescript-2f74c0.svg?style=for-the-badge&logo=typescript&logoColor=white" height="26"/>
@@ -16,6 +19,8 @@ Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 	<img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" height="26"/>
 	<img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" height="26"/>
 	<img alt="Scikit Learn" src ="https://img.shields.io/badge/-scikit--learn-black?style=for-the-badge&logo=scikit-learn" height="26"/>
+	<img alt="Pandas" src ="https://img.shields.io/badge/pandas-ae708?style=for-the-badge&logo=pandas" height="26"/>
+	<img alt="Numpy" src ="https://img.shields.io/badge/-numpy-black?style=for-the-badge&logo=numpy" height="26"/> 
 	<img alt="Git" src="https://img.shields.io/badge/git%20-%23E34F26.svg?&style=for-the-badge&logo=git&logoColor=white" height="26"/>
 	<img alt="Docker" src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" height="26"/>		 
 </p>
