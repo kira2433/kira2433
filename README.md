@@ -2,6 +2,7 @@
 <div align="center">
 Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 </div>
+<br />
 
 <p align="center">
 	<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" height="26"/>	
@@ -19,15 +20,6 @@ Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 	<img alt="Docker" src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" height="26"/>		 
 </p>
  
-<p>help --links </p>
-<ul>
-	<li>linkedin: https://www.linkedin.com/in/kirubel-wondimagegnehu/ </li> 
-	<li>hackerrank: https://www.hackerrank.com/profile/kiru_wondim_ma </li>
-	<li>codewars: https://www.codewars.com/users/kira2433  </li>
-	<li>freecodecamp: https://www.freecodecamp.org/fcc03abe364-4343-4172-8b71-d9d7aa940f36 </li>
-</ul>
- 
-
 <div align="center">  
 	<picture>
 	  <source
@@ -65,4 +57,22 @@ Hey <𝚌𝚘𝚍𝚎𝚛𝚜/>!
 </div>
             
 <br>
+
+<h4 align="center">help --links:</h4>
+                  
+<p align="center">
+	<a href="https://www.hackerrank.com/profile/kiru_wondim_ma">
+	  <img alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="26"/>
+	</a>
+	<a href="https://www.codewars.com/users/kira2433">
+	  <img alt="codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" height="26"/>
+	</a>	
+	<a href="https://www.linkedin.com/in/kirubel-wondimagegnehu/">
+	  <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="26"/>
+	</a>		
+	<a href="https://www.freecodecamp.org/fcc03abe364-4343-4172-8b71-d9d7aa940f36">
+	  <img alt="freecodecamp" src="https://img.shields.io/badge/freecodecamp-000000?style=for-the-badge&logo=freecodecamp&logoColor=white" height="26"/>
+	</a>
+</p>	
+
 
